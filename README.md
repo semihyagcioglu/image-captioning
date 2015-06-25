@@ -1,6 +1,6 @@
 # image-captioning
 
-This project contains codes for the study "A Distributed Representation Based Query Expansion Approach for Image Captioning"
+This repository contains codes for the study "A Distributed Representation Based Query Expansion Approach for Image Captioning"
 
 Details about the project is available at 
 http://www.semihyagcioglu.com/projects/imagecaptioning
