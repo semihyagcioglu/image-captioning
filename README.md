@@ -1,4 +1,4 @@
-# image-captioning
+# ![image-captioning](https://dl.dropboxusercontent.com/u/16169065/header.png)
 
 ### Introduction
 
