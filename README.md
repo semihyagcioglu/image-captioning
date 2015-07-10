@@ -15,7 +15,11 @@ Python codes for the proposed approach will be released here soon.
 
 #### Installation
 
+- 
+
 #### Notes
+
+- We provide pre-trained word vectors but you can train your word vectors or use another pre-trained word vectors. 
 
 #### Demo
 
@@ -27,10 +31,11 @@ If you find this software useful in your research, please consider citing:
 
 		@inproceedings{yagcioglu2015captioning,
 		author 	= {Yagcioglu, Semih and Erdem, Erkut and Erdem, Aykut and Çakıcı Ruket},
-		title 	= {A Distributed Representation Based Query Expansion Approach for Image Captioning},
-		booktitle = {Proceedings of the 53rd Annual Meeting of the Association for Computational 
-		Linguistics and The 7th International Joint Conference of the Asian Federation of 
-		Natural Language Processing},
+		title 	= {A Distributed Representation Based Query Expansion Approach for
+		Image Captioning},
+		booktitle = {Proceedings of the 53rd Annual Meeting of the Association for
+		Computational Linguistics and The 7th International Joint Conference of
+		the Asian Federation of Natural Language Processing},
 		year 	= {2015},
 		organization 	= {ACL}}
 
