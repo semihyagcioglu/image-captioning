@@ -4,10 +4,9 @@
 
 This repository contains sample implementations of algorithms described in the following study, [A Distributed Representation Based Query Expansion Approach for Image Captioning](http://www.semihyagcioglu.com/projects/image-captioning).
 
-Please refer to project page for more details, which is available at 
-http://www.semihyagcioglu.com/projects/image-captioning
+For more details, please visit the [project page](http://www.semihyagcioglu.com/projects/image-captioning).
 
-Python codes for the proposed approach will be released here soon.
+**Python source code and supporting files will be released here soon.**
 
 #### Requirements
 
