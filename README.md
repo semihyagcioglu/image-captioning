@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This repository contains sample implementations of algorithms described in the following study, [A Distributed Representation Based Query Expansion Approach for Image Captioning](http://www.semihyagcioglu.com/projects/image-captioning).
+This repository contains sample code for [A Distributed Representation Based Query Expansion Approach for Image Captioning](http://www.semihyagcioglu.com/projects/image-captioning).
 
 For more details, please visit the [project page](http://www.semihyagcioglu.com/projects/image-captioning).
 
@@ -10,11 +10,13 @@ For more details, please visit the [project page](http://www.semihyagcioglu.com/
 
 #### Requirements
 
-- Python 2.7 (Need packages of numpy, scipy stack)
+- Python 2.7 (Packages such as numpy, scipy etc)
+
+You can install these packages with pip. To install all dependencies at once, just run the command pip install -r requirements.txt
 
 #### Installation
 
-- 
+- Instructions will be here soon.
 
 #### Notes
 
@@ -38,5 +40,6 @@ If you find this software useful in your research, please consider citing:
 		year 	= {2015},
 		organization 	= {ACL}}
 
-#### Acknowledgment
+#### LICENCE
 
+MIT Licence.
