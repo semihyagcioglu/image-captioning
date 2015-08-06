@@ -12,7 +12,9 @@ For more details, please visit the [project page](http://www.semihyagcioglu.com/
 
 - Python 2.7 (Packages such as numpy, scipy etc)
 
-You can install these packages with pip. To install all dependencies at once, just run the command pip install -r requirements.txt
+You can install these packages with **pip**. To install all dependencies at once, just run the following command. 
+
+		pip install -r requirements.txt
 
 #### Installation
 
@@ -40,6 +42,6 @@ If you find this software useful in your research, please consider citing:
 		year 	= {2015},
 		organization 	= {ACL}}
 
-#### LICENCE
+#### Licence
 
-MIT Licence.
+**MIT** Licence.
