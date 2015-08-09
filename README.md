@@ -6,8 +6,6 @@ This repository contains sample code for [A Distributed Representation Based Que
 
 For more details, please visit the [project page](http://www.semihyagcioglu.com/projects/image-captioning).
 
-**Python source code and supporting files will be released here soon.**
-
 #### Requirements
 
 - Python 2.7 (Packages such as numpy, scipy etc)
@@ -18,7 +16,7 @@ You can install these packages with **pip**. To install all dependencies at once
 
 #### Installation
 
-- Instructions will be here soon.
+- You should download and extract pre-trained visual features to the relevant folders. For example from https://github.com/mjhucla/mRNN-CR
 
 #### Notes
 
@@ -26,7 +24,7 @@ You can install these packages with **pip**. To install all dependencies at once
 
 #### Demo
 
-- Instructions will be here soon.
+- A sample image captioning task is implemented in **demo.py**
 
 #### Citing
 
