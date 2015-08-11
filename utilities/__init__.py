@@ -71,4 +71,8 @@ class Utilities:
                 sentences.append('')
             all_items[i].append(sentences)
 
-        return all_items
+        all_items_in_train = filter(lambda x: x[4] == 'train', all_items)
+        all_items_in_val = filter(lambda x: x[4] == 'val', all_items)
+        all_items_in_test = filter(lambda x: x[4] == 'test', all_items)
+
+        return all_items_in_train, all_items_in_val, all_items_in_test
